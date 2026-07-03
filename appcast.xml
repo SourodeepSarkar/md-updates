@@ -1,0 +1,41 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>md Update</title>
+<link>
+http://sparkle-project.org/files/sparkletestcast.xml
+</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
+<item>
+<title>Version 1.0.0</title>
+<link>https://sourodeepsarkar.github.io/</link>
+<sparkle:version>1.0.0</sparkle:version>
+<description>
+<![CDATA[
+<h2>What's New in v1.0.0</h2>
+
+<h3>‼️ Reliability & Stability Update</h3>
+<ul>
+  <li>
+    <strong>Recommended for all users:</strong>
+    This update includes important reliability improvements, workflow refinements, and stability enhancements across Adiutor to deliver a smoother, more dependable study experience. Updating is recommended to ensure the best overall performance and compatibility.
+  </li>
+</ul>
+
+<hr>
+
+<h3>Feedback</h3>
+<p>Feedback, bug reports, and suggestions are welcome through GitHub Issues.</p>
+
+<hr>
+
+<p>Thank you for trying md.</p>
+]]>
+</description>
+<pubDate>Sat, 3 Jul 2026 12:25:00 +0530</pubDate>
+<enclosure url="https://github.com/SourodeepSarkar/adiutor/releases/download/v1.4.0/Adiutor.v1.4.0.zip" length="3488592" type="application/octet-stream" sparkle:edSignature="iXC+5ydkF6xjYPJ8CVK3HwWeCCu5LNNDJS1hI6Uw2QV2DXpyk33VEPx3uVAhFlB/d5MgzXN5ZGyvqBGqEzhhDw=="
+/>
+</item>
+</channel>
+</rss>
+
