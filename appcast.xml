@@ -1,24 +1,16 @@
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-<channel>
-<title>md Update</title>
-<link>
-http://sparkle-project.org/files/sparkletestcast.xml
-</link>
-<description>Most recent changes with links to updates.</description>
-<language>en</language>
-<item>
-    <title>Version 1.0.0</title>
-    <link>https://myproductwebsite.com</link>
-    <sparkle:version>1.0.0</sparkle:version>
-    <sparkle:releaseNotesLink>
-        https://example.com/release_notes/app_2.0.html
-    </sparkle:releaseNotesLink>
-    <pubDate>Fri, 03 Jul 2026 21:36:11 +0500</pubDate>
-    <enclosure url="https://github.com/SourodeepSarkar/md/releases/download/v1.0.0/md.v1.0.0.zip"
-                sparkle:edSignature="nTjS9o8gYe7TZtcuIuPlg/yp0AJvr3CnXHproiQcCpttHs+C/vcJhKqBy16Wq38QgrojQzLQAim5JQ3ZC29uDA=="
-                length="3477956"
-                type="application/octet-stream" />
-</item>
-</channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>md</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 04 Jul 2026 05:14:12 +0530</pubDate>
+            <link>https://github.com/SourodeepSarkar/md/releases/download/v1.0.0/md.v1.0.0.zip</link>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://sourodeepsarkar.github.io/md-updates/md%20v1.0.0.zip" length="2581929" type="application/octet-stream" sparkle:edSignature="MMp/omuunPtKZTyeDRmvrEgnBPPnT8+zeMqHIVFF+US+aR0Jz8Z3PRXQuuGCV9WShHZ/o0kxashewzVZ11A2CA=="/>
+        </item>
+    </channel>
 </rss>
-
