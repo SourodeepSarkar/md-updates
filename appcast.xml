@@ -10,7 +10,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://sourodeepsarkar.github.io/md-updates/md%20v1.0.0.zip" length="2581929" type="application/octet-stream" sparkle:edSignature="MMp/omuunPtKZTyeDRmvrEgnBPPnT8+zeMqHIVFF+US+aR0Jz8Z3PRXQuuGCV9WShHZ/o0kxashewzVZ11A2CA=="/>
+            <enclosure url="https://github.com/SourodeepSarkar/md/releases/download/v1.0.0/md.v1.0.0.zip" length="2581929" type="application/octet-stream" sparkle:edSignature="MMp/omuunPtKZTyeDRmvrEgnBPPnT8+zeMqHIVFF+US+aR0Jz8Z3PRXQuuGCV9WShHZ/o0kxashewzVZ11A2CA=="/>
         </item>
     </channel>
 </rss>
